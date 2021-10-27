@@ -1,0 +1,73 @@
+aqs,latitude,longitude,cbsa_name,state_name,county_name,local_site_name
+421010048,39.991389,-75.080833,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Philadelphia,North East Waste (NEW)
+420910013,40.112222,-75.309167,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Montgomery,A420910013LAT/LON POINT IS OF CORNER OF TRAILER
+421010024,40.076389,-75.011944,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Philadelphia,North East Airport (NEA)
+420170012,40.107222,-74.882222,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Bucks,A420170012LAT/LONG POINT IS OF SAMPLING INLET
+421010004,40.008889,-75.09778,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Philadelphia,Air Management Services Laboratory (AMS LAB)
+420290100,39.834461,-75.768242,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Chester,CHESTER COUNTY TRANSPORT SITE INTO PHILADELPHIA
+420450002,39.835556,-75.3725,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Pennsylvania,Delaware,A420450002LAT/LON POINT IS OF CORNER OF TRAILER
+340130003,40.720989,-74.192892,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Essex,Newark Firehouse
+340030006,40.870436,-73.991994,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Bergen,Leonia
+340071001,39.68425,-74.861491,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",New Jersey,Camden,Ancora State Hospital
+340290006,40.06483,-74.44405,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Ocean,Colliers Mills
+340315001,41.058617,-74.255544,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Passaic,Ramapo
+340273001,40.787628,-74.676301,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Morris,Chester
+340250005,40.277647,-74.0051,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Monmouth,Monmouth University
+340170006,40.67025,-74.126081,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Hudson,Bayonne
+340070002,39.934559,-75.125219,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",New Jersey,Camden,Camden Spruce Street
+340230011,40.462182,-74.429439,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Middlesex,Rutgers University
+340150002,39.800339,-75.212119,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",New Jersey,Gloucester,Clarksboro
+340190001,40.515262,-74.806671,"New York-Newark-Jersey City, NY-NJ-PA",New Jersey,Hunterdon,Flemington
+240330030,39.055277,-76.878333,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Prince George's,HU-Beltsville
+240339991,39.0284,-76.8171,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Prince George's,Beltsville
+240090011,38.536722,-76.617194,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Calvert,Calvert
+240170010,38.508547,-76.811864,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Charles,Southern Maryland
+240338003,38.81194,-76.74417,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Prince George's,PG Equestrian Center
+240031003,39.169533,-76.627933,"Baltimore-Columbia-Towson, MD",Maryland,Anne Arundel,GLEN BURNIE
+240313001,39.114313,-77.106876,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Montgomery,Rockville
+240251001,39.410191,-76.296946,"Baltimore-Columbia-Towson, MD",Maryland,Harford,Edgewood
+240150003,39.702982,-75.864771,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Maryland,Cecil,Fair Hill Natural Resource Management Area
+240051007,39.460478,-76.633543,"Baltimore-Columbia-Towson, MD",Maryland,Baltimore,Padonia
+240259001,39.563333,-76.203889,"Baltimore-Columbia-Towson, MD",Maryland,Harford,Aldino
+240210037,39.42276,-77.37519,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Maryland,Frederick,Frederick Airport
+240130001,39.444294,-77.042252,"Baltimore-Columbia-Towson, MD",Maryland,Carroll,South Carroll
+245100054,39.328807,-76.553075,"Baltimore-Columbia-Towson, MD",Maryland,Baltimore (City),Furley
+240053001,39.310833,-76.474444,"Baltimore-Columbia-Towson, MD",Maryland,Baltimore,Essex
+100032004,39.739444,-75.558056,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware,New Castle,MLK  CORNER OF MLK BLVD AND JUSTISON ST
+100031007,39.5513,-75.732,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware,New Castle,Lums Pond
+100031013,39.773889,-75.496389,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware,New Castle,"BELLEVUE STATE PARK, FIELD IN SE PORTION OF PARK"
+100031010,39.817222,-75.563889,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Delaware,New Castle,BCSP
+090090027,41.3014,-72.902871,"New Haven-Milford, CT",Connecticut,New Haven,Criscuolo Park-New Haven
+090019003,41.118333,-73.336667,"Bridgeport-Stamford-Norwalk, CT",Connecticut,Fairfield,Sherwood Island Connector (see coordinates)
+090031003,41.784722,-72.631667,"Hartford-West Hartford-East Hartford, CT",Connecticut,Hartford,McAuliffe Park
+090131001,41.976389,-72.388056,"Hartford-West Hartford-East Hartford, CT",Connecticut,Tolland,NA
+090159991,41.84046,-72.010368,"Worcester, MA-CT",Connecticut,Windham,Abington
+090050005,41.821342,-73.297257,"Torrington, CT",Connecticut,Litchfield,Mohawk Mt-Cornwall
+090099002,41.256788,-72.55327,"New Haven-Milford, CT",Connecticut,New Haven,Hammonasset State Park
+090013007,41.1525,-73.103056,"Bridgeport-Stamford-Norwalk, CT",Connecticut,Fairfield,NA
+090110124,41.35362,-72.07882,"Norwich-New London, CT",Connecticut,New London,Fort Griswold Park
+090079007,41.55,-72.626,"Hartford-West Hartford-East Hartford, CT",Connecticut,Middlesex,CVH
+090011123,41.399167,-73.443056,"Bridgeport-Stamford-Norwalk, CT",Connecticut,Fairfield,Western Conn State Univ
+090010017,41.004657,-73.585128,"Bridgeport-Stamford-Norwalk, CT",Connecticut,Fairfield,Greenwich Point Park
+360810124,40.73614,-73.82153,"New York-Newark-Jersey City, NY-NJ-PA",New York,Queens,QUEENS COLLEGE 2
+361030044,40.961017,-73.139046,"New York-Newark-Jersey City, NY-NJ-PA",New York,Suffolk,Flax Pond
+360050110,40.816,-73.902,"New York-Newark-Jersey City, NY-NJ-PA",New York,Bronx,IS 52
+361030002,40.74529,-73.41919,"New York-Newark-Jersey City, NY-NJ-PA",New York,Suffolk,BABYLON
+360610135,40.81976,-73.94825,"New York-Newark-Jersey City, NY-NJ-PA",New York,New York,CCNY
+361030004,40.96078,-72.71238,"New York-Newark-Jersey City, NY-NJ-PA",New York,Suffolk,RIVERHEAD
+360850111,40.58027,-74.19832,"New York-Newark-Jersey City, NY-NJ-PA",New York,Richmond,FRESHKILLS WEST
+360870005,41.18208,-74.02819,"New York-Newark-Jersey City, NY-NJ-PA",New York,Rockland,Rockland County
+361192004,41.05192,-73.76366,"New York-Newark-Jersey City, NY-NJ-PA",New York,Westchester,WHITE PLAINS
+360050133,40.8679,-73.87809,"New York-Newark-Jersey City, NY-NJ-PA",New York,Bronx,PFIZER LAB SITE
+361030009,40.82799,-73.05754,"New York-Newark-Jersey City, NY-NJ-PA",New York,Suffolk,HOLTSVILLE
+110010043,38.921847,-77.013178,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District Of Columbia,District of Columbia,MCMILLAN  NCore-PAMS
+110010041,38.895572,-76.958072,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District Of Columbia,District of Columbia,RIVER TERRACE
+110010050,38.970092,-77.016715,"Washington-Arlington-Alexandria, DC-VA-MD-WV",District Of Columbia,District of Columbia,Takoma Rec Center
+511530009,38.85287,-77.63462,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Prince William,James S. Long Park
+511071005,39.02473,-77.48925,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Loudoun,"Broad Run High School, Ashburn"
+510130020,38.8577,-77.05922,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Arlington,Aurora Hills Visitors Center
+510590030,38.77335,-77.10468,"Washington-Arlington-Alexandria, DC-VA-MD-WV",Virginia,Fairfax,Lee District Park
+440071010,41.841039,-71.36097,"Providence-Warwick, RI-MA",Rhode Island,Providence, FRANCIS SCHOOL East Providence
+440030002,41.615237,-71.72,"Providence-Warwick, RI-MA",Rhode Island,Kent,AJ
+440090007,41.49511,-71.423705,"Providence-Warwick, RI-MA",Rhode Island,Washington,US-EPA Laboratory
+440090008,41.377434,-71.524337,"Providence-Warwick, RI-MA",Rhode Island,Washington,"950 Succatash Rd South Kingston, RI 02879"
